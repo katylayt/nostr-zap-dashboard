@@ -2,7 +2,7 @@
 
 ## Description
 
-Tipping is a novel feature on the social media app Nostr. This dashboard provides a view into how much money is moving and which users it's going to. 
+Tipping is a novel feature on Nostr(see https://nostr.com/ or https://github.com/nostr-protocol/nips/blob/master/57.md for zaps specifically). This dashboard provides a view into how much money is moving and which users it's going to. 
 
 ## Features
 
