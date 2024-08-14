@@ -1,0 +1,10 @@
+bokeh==3.4.1
+hvplot==0.10.0
+ipython==8.25.0
+ipython==8.12.3
+numpy==2.0.1
+pandas==2.2.2
+panel==1.4.4
+param==2.1.1
+Requests==2.32.3
+scipy==1.14.0
