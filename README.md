@@ -19,12 +19,10 @@ Python, Jupyter Lab
 
 Steps to install and set up your project:
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/yourproject.git
-    ```
+
 2. Navigate to the project directory:
     ```bash
-    cd yourproject
+    cd nostr-zap-dashboard
     ```
 3. Optional: Virtual Env (Windows)
     ```bash
@@ -42,12 +40,12 @@ Launch the app:
     ```
 Change the user input fields on the sidebar to see different views.
 
-![Screenshot 1](screenshots/amount_btc view.JPG)
+![Screenshot 1](screenshots/amount_btc.JPG)
 *Showing amount_btc selection*
 
-![Screenshot 2](screenshots/amount_usd view.JPG)
+![Screenshot 2](screenshots/amount_usd.JPG)
 *showing amount_usd selection*
 
-![Screenshot 3](screenshots/dark mode.JPG)
+![Screenshot 3](screenshots/darkmode.JPG)
 *showing dark mode*
 
